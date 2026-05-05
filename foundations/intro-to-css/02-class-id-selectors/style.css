@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.fondito {
+    background-color: rgb(180, 80, 80); font-family: verdana, DejaVu Sans, Sans-serif;
+}
+.fondito2 {
+    font-size: 24px;
+}
+#one {
+    color: rgb(64, 64, 209); font-size: 36px;
+}
+#dos { background-color: rgb(51, 182, 51); font-size: 24px; font-weight: bold;
+
+}
